@@ -4,14 +4,13 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
-
+Post your work on github 
 ### Description
-Describe what your project is about and what it does
+This is what i've learned about version control and GitHub into practice.It's simulating a realistic workflow to refactor the previous BikeShare project using Git.
 
 ### Files used
-Include the files used
+/Users/sara/Downloads/bikeshare.py  
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Credits 
+https://github.com/Lema0441/pdsnd_github
 
